@@ -36,7 +36,7 @@ l=eval(input())
 n=eval(input())
 ```
 ## Output:
-![](circulatevalues.png)
+![](circulatevarieble.png)
 
 ## Result:
 Thus the Circulate the values of N variables are succesfullu executed
